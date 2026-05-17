@@ -1,0 +1,41 @@
+# Splunk logs and indexes
+*.log
+var/
+dispatch/
+db/
+
+# Credentials and secrets
+*.key
+*.pem
+*.crt
+passwords.conf
+authentication.conf
+
+# Virtual machine files
+*.vdi
+*.vmdk
+*.vbox
+*.iso
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+
+# Splunk packages
+*.tgz
+*.deb
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+desktop.ini
