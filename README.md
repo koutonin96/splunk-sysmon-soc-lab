@@ -14,6 +14,9 @@ The lab simulates a real-world SOC environment where endpoint activity is monito
 | Windows 11    | Endpoint monitored with Sysmon |
 | Kali Linux    | Attacker machine for testing   |
 
+## SOC Lab Architecture
+images/soc-architecture.png
+
 # Technologies Used
 Splunk Enterprise 10.2.3
 Splunk Universal Forwarder
