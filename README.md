@@ -74,14 +74,18 @@ This process improved troubleshooting, log analysis, and SIEM configuration skil
 # Screenshots
 ## Sysmon Events Successfully Ingested into Splunk
 
-
+images/sysmon_events.png
 
 ## Splunk Data Summary
 
+images/Data_summary.png
+images/Data_summary_all_events.png
 
+## Splunk Dashboard
 
-## VirtualBox SOC Architecture
-
+images/Splunk_Dashboard_1.png
+images/Splunk_Dashboard_2.png
+images/Splunk_Dashboard_3.png
 
 
 # Skills Demonstrated
